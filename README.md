@@ -4,7 +4,7 @@ Project for the Wireless Mobile Networks Course (https://fenix.tecnico.ulisboa.p
 
 This project is a Smart Parking IoT application developed as a way to remotely reserve and check the real-time availability of nearby parking spots, through an android mobile application.
 
-In order to achieve the objectives of this project a sensor/actuator system using an ESP8266 arduino board was implemented, containing a luminosity and a ultrassonic distance sensor. Each parking spot monitored by this application contains the system/actuator system, referenced above.
+In order to achieve the objectives of this project a sensor/actuator system using an ESP8266 arduino board was implemented, containing a luminosity and an ultrassonic distance sensor. Each parking spot monitored by this application contains the system/actuator system, referenced above.
 
 Each sensor system periodically sends luminosity and distance data to a cloud server that determines the availability status of each parking spot. The sensor system also transmits data to the cloud server everytime there is a luminosity/distance over a defined threshold. 
 
