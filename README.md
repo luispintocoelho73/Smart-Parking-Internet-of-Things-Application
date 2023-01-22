@@ -10,4 +10,4 @@ Each sensor system periodically sends luminosity and distance data to a cloud se
 
 A more detailed description of the developed application can be found in the smart_parking_final_report_group_10.pdf file.
 
-The sensor/actuator code can be found in the esp8266_software folder. Unfortunately, the code for the mobile application, developed using Android Studio, and for the cloud server, developed using the Back4App application, cannot be found in this repository.
+The sensor/actuator code can be found in the esp8266_software folder. Unfortunately, the code used for the mobile application, developed using Android Studio, and for the cloud server, developed using the Back4App application, cannot be found in this repository.
